@@ -1,6 +1,6 @@
 [中文版入口](README_cn.md)
 
-## Sogou C++ Workflow
+## Sogou C++ Workflow   预增加postgresql 3.0 协议支持
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://github.com/sogou/workflow/blob/master/LICENSE)
 [![Language](https://img.shields.io/badge/language-c++-red.svg)](https://en.cppreference.com/) 
